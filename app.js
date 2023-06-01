@@ -29,4 +29,5 @@ getTours();
 
 //! ----------------------
 
-Promise: console.log(getTours());
+//Promise: 
+console.log(getTours());
